@@ -12,7 +12,7 @@ python3 main.py
 ```
 
 ## Customization
-You can customize funtion you want, this algorithm aim is to find x and y value which make the function reach a maximum value.
+You can customize function you want, this algorithm aim is to find x and y value which make the function reach a maximum value.
 ```
 60. def fungsi(self, x, y):
 61.     return math.cos(x*x)*math.sin(y*y) + (x+y)
