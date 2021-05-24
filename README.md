@@ -1,5 +1,5 @@
 # Genetic Algorithm
-Solving Function Optimization using Genetic Algorithm
+Solving Function Optimization Problem using Genetic Algorithm
 
 ## How to
 Make sure you have installed python beforehand, then clone this repository to your desktop.
